@@ -1,0 +1,10 @@
+
+body {
+  font-family: Arial, sans-serif;
+}
+.navbar-brand {
+  font-weight: bold;
+}
+main h2 {
+  margin-top: 20px;
+}
